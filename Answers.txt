@@ -1,0 +1,2 @@
+Easy Answers-
+cat hello_world.txt > hello_copy.txt
